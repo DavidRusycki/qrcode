@@ -1,4 +1,6 @@
-# green-lantern
+# QRCode
+
+Project to learn more about qrcodes.
 
 > QRCode reader and generator using Java
 
